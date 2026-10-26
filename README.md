@@ -58,15 +58,6 @@ Today        Schedule        Community        Me
 
 **Requirements:** Node.js 20 or newer.
 
-```powershell
-git clone https://github.com/<your-username>/welearn-lms.git
-cd welearn-lms
-npm install
-npm run dev
-```
-
-The app is served at **http://localhost:5827** (Vite also prints a Network URL for testing on a phone).
-
 ### Scripts
 
 | Command | Purpose |
